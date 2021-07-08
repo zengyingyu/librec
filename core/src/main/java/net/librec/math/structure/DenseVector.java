@@ -26,7 +26,7 @@ import java.io.Serializable;
 
 
 /**
- * Data Structure: dense vector
+ * Data Structure: dense vector 密集的矢量
  *
  * @author guoguibing
  */

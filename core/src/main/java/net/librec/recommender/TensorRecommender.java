@@ -105,11 +105,13 @@ public abstract class TensorRecommender implements Recommender {
 
     /**
      * dimensions
+     * 尺寸
      */
     protected int numDimensions;
 
     /**
      * dimensions indices
+     * 尺寸指数
      */
     protected int[] dimensions;
 

@@ -30,6 +30,7 @@ import java.util.*;
 
 /**
  * Data Structure: Sparse Tensor <br>
+ * 稀疏张量
  * <p>
  * For easy documentation, here we use {@code (keys, value)} to indicate each entry of a tensor, and {@code index} is
  * used to indicate the position in which the entry is stored in the lists.
